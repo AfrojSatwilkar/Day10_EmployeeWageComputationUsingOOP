@@ -1,6 +1,5 @@
 package com.company1.EmployeeWageComputationUsingOOps;
 
-import java.util.Random;
 
 public class EmployeeWageParentClass {
     protected String company;

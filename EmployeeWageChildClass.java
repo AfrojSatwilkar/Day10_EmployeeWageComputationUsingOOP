@@ -2,7 +2,7 @@ package com.company1.EmployeeWageComputationUsingOOps;
 
 import java.util.Random;
 
-public class EmployeeWageChildClass {
+public class EmployeeWageChildClass implements EmpWage{
 
 
     //Constant variable
